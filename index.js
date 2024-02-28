@@ -20,7 +20,7 @@ const app = express();
 const port = 3000;
 
 const apiURL = "http://api.weatherapi.com/v1";
-const apiKey = "efd9035bc58a4ad18e4215733233110";
+const apiKey = "your-api-key";
 
 app.use(express.static("public"));
 app.use(express.urlencoded({ extended: true }));

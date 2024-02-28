@@ -2,7 +2,7 @@
  * Simple weather Web Application
  * Includes weather information and hourly forecast for the current day, simple forecast for the following 6 days
  * User can search for any location. In case of an error, the application returns to user's current location.
- * Public API used: https://www.weatherapi.com/ (Uses API key authentication - in the index.js file, my key is used.)
+ * Public API used: https://www.weatherapi.com/ (Uses API key authentication - insert your key in index.js)
    
  * To run this application, install Node.js. Then, in the command line, type "npm i", followed by "node index.js". Then open localhost:3000 in your browser.
    

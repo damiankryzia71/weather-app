@@ -1,4 +1,4 @@
- * Weather App by Damian Kryzia
+ ### Weather App by Damian Kryzia
  * Simple weather Web Application
  * Includes weather information and hourly forecast for the current day, simple forecast for the following 6 days
  * User can search for any location. In case of an error, the application returns to user's current location.
